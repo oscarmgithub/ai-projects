@@ -305,14 +305,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - oscarlmartinez@hotmail.com
 
 Project Link: [https://github.com/yourusername/database-schema-analyzer](https://github.com/yourusername/database-schema-analyzer)
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/yourusername">Oscar Martinez</a>
 </p>
 
 <p align="center">
